@@ -1,10 +1,10 @@
 # Hi 👋, I'm Sachin Kumar Yadav
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sachin7717\&color=blue)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sachin-kumar-yadav-089926233)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/u/sachin7717748088/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/sachin-kumar-yadav-698b97201)
 [![Portfolio](https://img.shields.io/badge/Portfolio-sachin7.pythonanywhere.com-brightgreen)](https://sachin7.pythonanywhere.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-sachin7717-black)](https://github.com/sachin7717)
+[![GitHub](https://img.shields.io/badge/GitHub-sachin7717-black)](https://github.com/sky-sachin7)
 [![Open to Work](https://img.shields.io/badge/Open%20To-Opportunities-red)](mailto:sachin7717748088@gmail.com)
 
 A passionate **Software Development Engineer (SDE)** based in **India**, building innovative tools, simulations, and solving real-world problems with algorithms and programming.
@@ -40,15 +40,10 @@ A passionate **Software Development Engineer (SDE)** based in **India**, buildin
 
 ## 🔍 Selected projects
 
-> Short summaries — link the repositories under your account (replace the `[...]` with real repo links if you want).
 
-* **WhatsApp Chat Analyzer** — A Streamlit web app for parsing and analyzing WhatsApp chat exports. Deployed on Render for interactive exploration and quick analytics. (`github.com/sachin7717/whatsapp-chat-analyzer`)
+* **WhatsApp Chat Analyzer** — A Streamlit web app for parsing and analyzing WhatsApp chat exports. Deployed on Render for interactive exploration and quick analytics. (`https://github.com/sky-sachin7/whatsapp_chat`)
 
-* **Electric Vehicle Routing Problem (EVRP) — Genetic Algorithm** — A metaheuristic solver with route validation, energy/load-aware constraints, charging logic, and visualization. CLI-based output for reproducible experiments. (`github.com/sachin7717/evrp-ga`)
-
-* **P2P File Sharing Game using Correlated Equilibrium** — N-player simulation framework (built in Python) that models delay via M/D/1 queues, evaluates utilities (negative delay), uses distributed regret-matching to learn CE, and has an LP-based CE solver and visualizations. Implemented and tested in Google Colab. (`github.com/sachin7717/p2p-ce-game`)
-
-* **Pharmacy Shop Management System** — A project to manage billing and inventory (planned/implemented features include role-based access, monthly reports, and organized bill storage). (`github.com/sachin7717/pharmacy-shop-management`)
+* **Electric Vehicle Routing Problem (EVRP) — Genetic Algorithm** — A metaheuristic solver with route validation, energy/load-aware constraints, charging logic, and visualization. CLI-based output for reproducible experiments. (`https://github.com/sky-sachin7/EVRP`)
 
 ---
 
@@ -64,8 +59,8 @@ A passionate **Software Development Engineer (SDE)** based in **India**, buildin
 
 * 📄 Explore my full portfolio at **[sachin7.pythonanywhere.com](https://sachin7.pythonanywhere.com/)** — projects, resume, education, and contact info.
 * Email: **[sachin7717748088@gmail.com](mailto:sachin7717748088@gmail.com)**
-* GitHub: **[https://github.com/sachin7717](https://github.com/sachin7717)**
-* LinkedIn: **[https://www.linkedin.com/in/sachin-kumar-yadav-089926233](https://www.linkedin.com/in/sachin-kumar-yadav-089926233)**
+* GitHub: **[https://github.com/sky-sachin7](https://github.com/sky-sachin7)**
+* LinkedIn: **[www.linkedin.com/in/sachin-kumar-yadav-698b97201](www.linkedin.com/in/sachin-kumar-yadav-698b97201)**
 
 ---
 
