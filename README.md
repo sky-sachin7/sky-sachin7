@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sachin7717\&color=blue)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/u/sachin7717748088/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/sachin-kumar-yadav-698b97201)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sachin-kumar-yadav-698b97201)
 [![Portfolio](https://img.shields.io/badge/Portfolio-sachin7.pythonanywhere.com-brightgreen)](https://sachin7.pythonanywhere.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-sachin-black)](https://github.com/sky-sachin7)
 [![Open to Work](https://img.shields.io/badge/Open%20To-Opportunities-red)](mailto:sachin7717748088@gmail.com)
