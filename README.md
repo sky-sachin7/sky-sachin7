@@ -66,7 +66,7 @@ A passionate **Software Development Engineer (SDE)** based in **India**, buildin
 * 📄 Explore my portfolio: **[sachin7.pythonanywhere.com](https://sachin7.pythonanywhere.com/)**
 * Email: **[sachin7717748088@gmail.com](mailto:sachin7717748088@gmail.com)**
 * GitHub: **[sky-sachin7](https://github.com/sky-sachin7)**
-* LinkedIn: **[Sachin Kumar Yadav](www.linkedin.com/in/sachin-kumar-yadav-698b97201)**
+* LinkedIn: **[Sachin Kumar Yadav](https://www.linkedin.com/in/sachin-kumar-yadav-698b97201)**
 
 ---
 
