@@ -4,7 +4,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/u/sachin7717748088/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/sachin-kumar-yadav-698b97201)
 [![Portfolio](https://img.shields.io/badge/Portfolio-sachin7.pythonanywhere.com-brightgreen)](https://sachin7.pythonanywhere.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-sachin7717-black)](https://github.com/sky-sachin7)
+[![GitHub](https://img.shields.io/badge/GitHub-sky-sachin7-black)](https://github.com/sky-sachin7)
 [![Open to Work](https://img.shields.io/badge/Open%20To-Opportunities-red)](mailto:sachin7717748088@gmail.com)
 
 A passionate **Software Development Engineer (SDE)** based in **India**, building innovative tools, simulations, and solving real-world problems with algorithms and programming.
