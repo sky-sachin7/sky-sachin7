@@ -72,13 +72,13 @@ A passionate **Software Development Engineer (SDE)** based in **India**, buildin
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachin7717&show_icons=true&locale=en&theme=dark" alt="sachin7717's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sky-sachin7&show_icons=true&locale=en&theme=dark" alt="sky-sachin7's github stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sachin7717&show_icons=true&locale=en&layout=compact&theme=dark" alt="sachin7717's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sky-sachin7&show_icons=true&locale=en&layout=compact&theme=dark" alt="sky-sachin7's top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin7717&theme=dark" alt="sachin7717's streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sky-sachin7&theme=dark" alt="sky-sachin7's streak stats" />
 </p>
 
 ---
